@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{5FA6E829-4886-C8C9-701B-E798622A3E94}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "RoomEscape",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
