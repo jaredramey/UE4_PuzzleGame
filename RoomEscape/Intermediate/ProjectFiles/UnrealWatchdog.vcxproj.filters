@@ -5,7 +5,7 @@
 		<None Include="..\..\..\..\..\..\Desktop\UE4_1.8\UnrealEngine-release\Engine\Source\Programs\UnrealWatchdog\UnrealWatchdog.Target.cs" />
 		<None Include="..\..\..\..\..\..\Desktop\UE4_1.8\UnrealEngine-release\Engine\Source\Programs\UnrealWatchdog\UnrealWatchdog.Build.cs" />
 		<Filter Include="Private">
-			<UniqueIdentifier>{77A2D29C-0CD0-420B-87F7-2DC7EE73B779}</UniqueIdentifier>
+			<UniqueIdentifier>{292AB8AF-D607-4561-94DE-4001C4437577}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\..\..\..\..\Desktop\UE4_1.8\UnrealEngine-release\Engine\Source\Programs\UnrealWatchdog\Private\UnrealWatchdog.cpp">
 			<Filter>Private</Filter>
@@ -20,19 +20,19 @@
 			<Filter>Private</Filter>
 		</ClInclude >
 		<Filter Include="Private\Linux">
-			<UniqueIdentifier>{E93D737F-C850-448B-9A18-3D59C73B012F}</UniqueIdentifier>
+			<UniqueIdentifier>{0F196355-05F0-4C34-BE0B-109B50729509}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\..\..\..\..\Desktop\UE4_1.8\UnrealEngine-release\Engine\Source\Programs\UnrealWatchdog\Private\Linux\UnrealWatchdogMainLinux.cpp">
 			<Filter>Private\Linux</Filter>
 		</ClCompile >
 		<Filter Include="Private\Mac">
-			<UniqueIdentifier>{12CE215F-BF08-4D19-B7C2-5638723B2949}</UniqueIdentifier>
+			<UniqueIdentifier>{492F2E57-4591-4379-9307-BB38F3B92DC4}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\..\..\..\..\Desktop\UE4_1.8\UnrealEngine-release\Engine\Source\Programs\UnrealWatchdog\Private\Mac\UnrealWatchdogMainMac.cpp">
 			<Filter>Private\Mac</Filter>
 		</ClCompile >
 		<Filter Include="Private\Windows">
-			<UniqueIdentifier>{98634B07-D31C-413A-9BDC-8F77A6501007}</UniqueIdentifier>
+			<UniqueIdentifier>{95DF626C-BA32-4DCD-B215-76581AD4FDA5}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\..\..\..\..\Desktop\UE4_1.8\UnrealEngine-release\Engine\Source\Programs\UnrealWatchdog\Private\Windows\UnrealWatchdogMainWindows.cpp">
 			<Filter>Private\Windows</Filter>

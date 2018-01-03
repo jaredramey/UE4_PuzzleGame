@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\RoomEscape.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{7AA53ED7-5CEF-4095-8703-0C193BE30AC8}</UniqueIdentifier>
+			<UniqueIdentifier>{AA38D141-F86C-4D68-9BB4-7E8187C7F55B}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\RoomEscape.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{AE8057AB-C313-4B31-BD8E-16E90E58F1E5}</UniqueIdentifier>
+			<UniqueIdentifier>{217EBDA0-5F9F-41D5-A757-004A3B48FFDD}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -25,8 +25,14 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\RoomEscape">
-			<UniqueIdentifier>{F573E35B-8FFD-4205-84A7-CC28DFE6DB8F}</UniqueIdentifier>
+			<UniqueIdentifier>{7A85337E-C753-4137-B906-69FD27EFE522}</UniqueIdentifier>
 		</Filter>
+		<ClCompile Include="..\..\Source\RoomEscape\PositionReporter.cpp">
+			<Filter>Source\RoomEscape</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\RoomEscape\PositionReporter.h">
+			<Filter>Source\RoomEscape</Filter>
+		</ClInclude >
 		<None Include="..\..\Source\RoomEscape\RoomEscape.Build.cs">
 			<Filter>Source\RoomEscape</Filter>
 		</None >

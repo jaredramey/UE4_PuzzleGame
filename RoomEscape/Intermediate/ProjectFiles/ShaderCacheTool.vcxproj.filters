@@ -5,7 +5,7 @@
 		<None Include="..\..\..\..\..\..\Desktop\UE4_1.8\UnrealEngine-release\Engine\Source\Programs\Mac\ShaderCacheTool\ShaderCacheTool.Target.cs" />
 		<None Include="..\..\..\..\..\..\Desktop\UE4_1.8\UnrealEngine-release\Engine\Source\Programs\Mac\ShaderCacheTool\ShaderCacheTool.Build.cs" />
 		<Filter Include="Private">
-			<UniqueIdentifier>{6D39DE13-D22D-442B-956E-9F79B5643607}</UniqueIdentifier>
+			<UniqueIdentifier>{5F9DA7F2-C741-4BFC-A42E-3677D2E51A23}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\..\..\..\..\Desktop\UE4_1.8\UnrealEngine-release\Engine\Source\Programs\Mac\ShaderCacheTool\Private\ShaderCacheTool.cpp">
 			<Filter>Private</Filter>

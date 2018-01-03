@@ -1478,6 +1478,8 @@
 		<None Include="..\..\Config\DefaultEditor.ini" />
 		<None Include="..\..\Config\DefaultEngine.ini" />
 		<None Include="..\..\Config\DefaultGame.ini" />
+		<ClCompile Include="..\..\Source\RoomEscape\PositionReporter.cpp" />
+		<ClInclude Include="..\..\Source\RoomEscape\PositionReporter.h" />
 		<None Include="..\..\Source\RoomEscape\RoomEscape.Build.cs" />
 		<ClCompile Include="..\..\Source\RoomEscape\RoomEscape.cpp" />
 		<ClInclude Include="..\..\Source\RoomEscape\RoomEscape.h" />

@@ -4,14 +4,14 @@
 	<ItemGroup>
 		<None Include="..\..\..\..\..\..\Desktop\UE4_1.8\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\UnrealHeaderTool.Target.cs" />
 		<Filter Include="Config">
-			<UniqueIdentifier>{09FCDACF-60A0-4409-A4A2-F09C68A60E13}</UniqueIdentifier>
+			<UniqueIdentifier>{01D83E95-F8E2-47BB-B643-80020E62FE6B}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\..\..\..\..\Desktop\UE4_1.8\UnrealEngine-release\Engine\Programs\UnrealHeaderTool\Config\DefaultEngine.ini">
 			<Filter>Config</Filter>
 		</None >
 		<None Include="..\..\..\..\..\..\Desktop\UE4_1.8\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\UnrealHeaderTool.Build.cs" />
 		<Filter Include="Private">
-			<UniqueIdentifier>{01DF3A61-8DF6-45E3-AD9C-B0081DE5A4A1}</UniqueIdentifier>
+			<UniqueIdentifier>{0B3426B4-EFD3-4C68-8F9E-D92BABC4133F}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\..\..\..\..\Desktop\UE4_1.8\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\BaseParser.cpp">
 			<Filter>Private</Filter>
@@ -122,7 +122,7 @@
 			<Filter>Private</Filter>
 		</ClInclude >
 		<Filter Include="Private\Specifiers">
-			<UniqueIdentifier>{7C6AF1F9-8AD5-4AF8-86DF-EFF26EFC6111}</UniqueIdentifier>
+			<UniqueIdentifier>{24E65162-31A8-4054-9A8C-5666103D80BD}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\..\..\..\..\Desktop\UE4_1.8\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\Specifiers\CheckedMetadataSpecifiers.def">
 			<Filter>Private\Specifiers</Filter>
@@ -158,13 +158,13 @@
 			<Filter>Private\Specifiers</Filter>
 		</ClInclude >
 		<Filter Include="Public">
-			<UniqueIdentifier>{6DF3DBF2-96F1-41E8-91C1-48E910B8942F}</UniqueIdentifier>
+			<UniqueIdentifier>{FE1D052A-FB9C-424C-AE03-7424C7C8AE02}</UniqueIdentifier>
 		</Filter>
 		<ClInclude Include="..\..\..\..\..\..\Desktop\UE4_1.8\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Public\IScriptGeneratorPluginInterface.h">
 			<Filter>Public</Filter>
 		</ClInclude >
 		<Filter Include="Resources">
-			<UniqueIdentifier>{265E2464-BCEB-4EE5-A97D-4CDFBA1557A8}</UniqueIdentifier>
+			<UniqueIdentifier>{03FE1C86-3B09-4EBF-BD5C-34CD1DA4EB98}</UniqueIdentifier>
 		</Filter>
 		<ResourceCompile Include="..\..\..\..\..\..\Desktop\UE4_1.8\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Resources\PCLaunch.rc">
 			<Filter>Resources</Filter>
@@ -173,7 +173,7 @@
 			<Filter>Resources</Filter>
 		</Manifest >
 		<Filter Include="Resources\UHTDebugging">
-			<UniqueIdentifier>{D770EC07-B197-46C8-8C61-BF2E5FA29302}</UniqueIdentifier>
+			<UniqueIdentifier>{811179A2-94FF-46BA-BA03-5B6F3505272F}</UniqueIdentifier>
 		</Filter>
 		<ClInclude Include="..\..\..\..\..\..\Desktop\UE4_1.8\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Resources\UHTDebugging\EnumOnlyHeader.h">
 			<Filter>Resources\UHTDebugging</Filter>

@@ -4,20 +4,20 @@
 	<ItemGroup>
 		<None Include="..\..\..\..\..\..\Desktop\UE4_1.8\UnrealEngine-release\Engine\Source\Programs\ShaderCompileWorker\ShaderCompileWorker.Target.cs" />
 		<Filter Include="Config">
-			<UniqueIdentifier>{9DAF2262-7FE6-4758-AF3C-2EC26A99698D}</UniqueIdentifier>
+			<UniqueIdentifier>{8AE1ABBA-B2A8-49B4-A0E3-6463F5C4E329}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\..\..\..\..\Desktop\UE4_1.8\UnrealEngine-release\Engine\Programs\ShaderCompileWorker\Config\DefaultEngine.ini">
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Config\Mac">
-			<UniqueIdentifier>{3A986311-DB2A-47E4-929B-8E7C3A828E01}</UniqueIdentifier>
+			<UniqueIdentifier>{89330D52-9125-42A0-8C2D-76963DC1369B}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\..\..\..\..\Desktop\UE4_1.8\UnrealEngine-release\Engine\Programs\ShaderCompileWorker\Config\Mac\MacEngine.ini">
 			<Filter>Config\Mac</Filter>
 		</None >
 		<None Include="..\..\..\..\..\..\Desktop\UE4_1.8\UnrealEngine-release\Engine\Source\Programs\ShaderCompileWorker\ShaderCompileWorker.Build.cs" />
 		<Filter Include="Private">
-			<UniqueIdentifier>{18DBED74-6532-4DC5-81F2-8D0042B7DBF3}</UniqueIdentifier>
+			<UniqueIdentifier>{C10A4E4B-F9F2-4483-9B80-06C69769E14D}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\..\..\..\..\Desktop\UE4_1.8\UnrealEngine-release\Engine\Source\Programs\ShaderCompileWorker\Private\ShaderCompileWorker.cpp">
 			<Filter>Private</Filter>
@@ -26,7 +26,7 @@
 			<Filter>Private</Filter>
 		</ClCompile >
 		<Filter Include="Resources">
-			<UniqueIdentifier>{0870DFE2-2F30-45D8-94F4-26B8371039A5}</UniqueIdentifier>
+			<UniqueIdentifier>{A0B32721-B4F5-46DB-BAE7-3B5CCCCCBCE6}</UniqueIdentifier>
 		</Filter>
 		<Manifest Include="..\..\..\..\..\..\Desktop\UE4_1.8\UnrealEngine-release\Engine\Source\Programs\ShaderCompileWorker\Resources\Debug-Win32.manifest">
 			<Filter>Resources</Filter>

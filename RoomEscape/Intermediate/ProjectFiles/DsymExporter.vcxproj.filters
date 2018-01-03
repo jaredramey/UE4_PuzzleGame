@@ -5,19 +5,19 @@
 		<None Include="..\..\..\..\..\..\Desktop\UE4_1.8\UnrealEngine-release\Engine\Source\Programs\Mac\DsymExporter\DsymExporter.Target.cs" />
 		<None Include="..\..\..\..\..\..\Desktop\UE4_1.8\UnrealEngine-release\Engine\Source\Programs\Mac\DsymExporter\DsymExporter.Build.cs" />
 		<Filter Include="Private">
-			<UniqueIdentifier>{5C60370A-0149-45EB-9A3E-91D954B13081}</UniqueIdentifier>
+			<UniqueIdentifier>{94212BF6-16C9-4162-A687-AC4C0B81E25C}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\..\..\..\..\Desktop\UE4_1.8\UnrealEngine-release\Engine\Source\Programs\Mac\DsymExporter\Private\DsymExporterApp.cpp">
 			<Filter>Private</Filter>
 		</ClCompile >
 		<Filter Include="Private\Mac">
-			<UniqueIdentifier>{8ACDEB0D-6AE2-4DA9-87AE-BAAB7F9C14A6}</UniqueIdentifier>
+			<UniqueIdentifier>{2AAE5F96-F374-4755-A793-C4070212AC9F}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\..\..\..\..\Desktop\UE4_1.8\UnrealEngine-release\Engine\Source\Programs\Mac\DsymExporter\Private\Mac\DsymExporterMainMac.cpp">
 			<Filter>Private\Mac</Filter>
 		</ClCompile >
 		<Filter Include="Public">
-			<UniqueIdentifier>{B3B1069F-E11E-49EE-888E-C078758323EA}</UniqueIdentifier>
+			<UniqueIdentifier>{4751D05E-CD8A-4087-A265-0ADF56C83024}</UniqueIdentifier>
 		</Filter>
 		<ClInclude Include="..\..\..\..\..\..\Desktop\UE4_1.8\UnrealEngine-release\Engine\Source\Programs\Mac\DsymExporter\Public\DsymExporterApp.h">
 			<Filter>Public</Filter>
